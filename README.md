@@ -16,7 +16,7 @@ Linux Terminal & Python:
 https://www.katacoda.com/bbdev18
 
 Django:
-https://github.com/bbdev18/Learn_Django_10_Min/wiki
+https://github.com/bbdev18/Django_2_Go/wiki
 
 
 
