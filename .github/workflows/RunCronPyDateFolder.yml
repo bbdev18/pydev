@@ -1,4 +1,4 @@
-name: testRunFile
+name: RunCronPyDateFolder
 
 on:
   schedule:
