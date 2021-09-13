@@ -1,8 +1,9 @@
 name: RunCronPyDateFolder
 
 on:
-  schedule:
-    - cron: '*/3 * * * *' # runs at 12:00 UTC everyday
+   push
+  #schedule:
+  #  - cron: '*/3 * * * *' # runs at 12:00 UTC everyday
 
 jobs:
   build:
