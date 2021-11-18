@@ -13,7 +13,7 @@ import time
 # start = time.time()
 
 
-x_data = np.loadtxt("data.csv", delimiter=',')
+x_data = np.loadtxt("ecg_data.csv", delimiter=',')
 
 avergval = 0
 avg = 10
