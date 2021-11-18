@@ -19,7 +19,7 @@ import os
 
 image_list = []
 
-for filename in glob.glob('D:/Documents/PythonCode/Montage/vid/*'):
+for filename in glob.glob('D:/vidout/*'):
 	# print(filename)
 	img = skimage.io.imread(filename)
 	image_list.append(img)
